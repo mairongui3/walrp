@@ -11,12 +11,11 @@
 #                                     | $$
 #                                     | $$
 #                                     |__/      
-# 
+# Made by MaironGui3 ~ v1.0 
 #
-# Made by ~ MaironGui3 ~ v1.0
 # Walrp ~> wal for rofi and polybar
 
-file=".cache/wal/colors-rofi-dark.rasi"
+file="~/.cache/wal/colors-rofi-dark.rasi"
 
 i=1
 while read line; do
